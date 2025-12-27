@@ -11,3 +11,5 @@ var cap = {
         }
     }
 }
+console.log(JSON.stringify(cap, null, 2));
+
