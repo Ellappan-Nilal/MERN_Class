@@ -13,3 +13,13 @@
 //console.log("Array:", arr)
 
 //Objects
+
+var person={
+    name:"John",
+    age:30,
+    isEmployed:true
+}
+console.log("Person Object:", person)
+console.log("Name:", person.name)
+console.log("Age:", person.age)
+console.log("Is Employed:", person.isEmployed)  
